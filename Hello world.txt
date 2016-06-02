@@ -1,3 +1,5 @@
 #include
 print ("Hello everybody;")
 print ("another hello;")
+print ("hello  my dear friend;")
+print ("glad to see you;")
